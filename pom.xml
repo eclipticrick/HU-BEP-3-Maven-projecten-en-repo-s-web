@@ -57,8 +57,8 @@
 
     <repositories>
         <repository>
-            <id>friendspammer</id>
-            <url>file:///C:/Users/wes_v/.m2/repository</url>
+            <id>packagecloud-friendspammer</id>
+            <url>https://packagecloud.io/eclipticrick/friendspammer</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
