@@ -29,9 +29,9 @@
     </thead>
     <tbody>
     <%
-        String userName = "YOUR USER";
-        String password = "YOUR PASS";
-        String database = "friendspammer";
+        String userName = "eclipticrick";
+        String password = "12345678";
+        String database = "hu-bep-friendspammer";
 
         MongoCredential credential = MongoCredential.createCredential(userName, database, password.toCharArray());
 
