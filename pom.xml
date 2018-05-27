@@ -23,6 +23,12 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>nl.ecliptic.bep.friendspammer</groupId>
+            <artifactId>friendspammer-helper</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
     <build>
