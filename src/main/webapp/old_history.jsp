@@ -2,6 +2,7 @@
 <%@ page import="nl.ecliptic.bep.friendspammer.MongoSaver" %>
 <%@ page import="nl.ecliptic.bep.friendspammer.resources.HistoryRecord" %>
 <%@ page import="java.util.List" %>
+<%@ page import="java.util.ListIterator" %>
 
 <!DOCTYPE html>
 <html>
