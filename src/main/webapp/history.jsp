@@ -35,7 +35,7 @@
 
         MongoCredential credential = MongoCredential.createCredential(userName, database, password.toCharArray());
 
-        MongoClient mongoClient = new MongoClient(new ServerAddress("YOUR HOST", 27939), credential, MongoClientOptions.builder().build());
+        MongoClient mongoClient = new MongoClient(new ServerAddress("ds237620.mlab.com", 37620), credential, MongoClientOptions.builder().build());
 
         MongoDatabase db = mongoClient.getDatabase( database );
 
